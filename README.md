@@ -1,5 +1,7 @@
 # C# .NET Wrapper for the Open Asset Import Library (Assimp)
 
+各种模型导入测试
+
 Since Google Code no longer allows new downloads, the latest release can be downloaded via NuGet or on this side.
 
 A .NET wrapper for the Open Asset Import Library (Assimp). The wrapper uses P/Invoke to communicate with Assimp's C-API and is divided into two parts:
